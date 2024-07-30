@@ -1,0 +1,15 @@
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\bin\Debug\net6.0\TronsScanProject.exe
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\bin\Debug\net6.0\TronsScanProject.deps.json
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\bin\Debug\net6.0\TronsScanProject.runtimeconfig.json
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\bin\Debug\net6.0\TronsScanProject.dll
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\bin\Debug\net6.0\TronsScanProject.pdb
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.csproj.AssemblyReference.cache
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.AssemblyInfoInputs.cache
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.AssemblyInfo.cs
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.csproj.CoreCompileInputs.cache
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.dll
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\refint\TronsScanProject.dll
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.pdb
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\TronsScanProject.genruntimeconfig.cache
+C:\Users\vavl\source\repos\TronsScanProject\TronsScanProject\obj\Debug\net6.0\ref\TronsScanProject.dll
